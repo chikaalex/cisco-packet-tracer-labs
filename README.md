@@ -14,6 +14,8 @@ This project demonstrates a simple network setup connecting end devices to a rem
 
 This lab helped me understand how devices connect through different network components to access services over the internet.
 
+![Basic Network](screenshots/basic-network.png)
+
 ---
 
 ### 2. Smart Home IoT Network
@@ -25,6 +27,8 @@ This project simulates a smart home environment where multiple IoT devices are c
 - Demonstrates how IoT systems can process data locally (edge computing) instead of relying on the cloud  
 
 This setup highlights how local processing improves response time and reduces dependency on internet connectivity.
+
+![Smart Home IoT](screenshots/smart-home-iot.png)
 
 ---
 
