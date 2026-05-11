@@ -14,7 +14,7 @@ This project demonstrates a simple network setup connecting end devices to a rem
 
 This lab helped me understand how devices connect through different network components to access services over the internet.
 
-![Basic Network](screenshots/basic-network.png)
+![Basic Network](screenshots/basic_network.png)
 
 ---
 
@@ -28,7 +28,7 @@ This project simulates a smart home environment where multiple IoT devices are c
 
 This setup highlights how local processing improves response time and reduces dependency on internet connectivity.
 
-![Smart Home IoT](screenshots/smart-home-iot.png)
+![Smart Home IoT](screenshots/smart_home_iot.png)
 
 ---
 
